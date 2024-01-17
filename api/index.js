@@ -5,11 +5,7 @@ import userRouter from './routes/user.route.js';
 import authRouter from './routes/auth.route.js';
 import listingRouter from './routes/listing.route.js';
 import cookieParser from 'cookie-parser';
-<<<<<<< HEAD
 import path from 'path';
-=======
-import path from 'path';  
->>>>>>> 1bd94ad9993f3ce2123b59209702fadac1dcd63f
 
 dotenv.config();
 
